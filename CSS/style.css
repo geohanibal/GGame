@@ -339,6 +339,9 @@ section {
 .wrapper p {
   font-style: italic;
   }
+.wrapper ul {
+  list-style: circle;
+  }
 
 .wrapper img {
   height: 100%;
