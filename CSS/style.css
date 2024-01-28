@@ -333,6 +333,13 @@ section {
   height: 220px;
   width: 220px;
 }
+.wrapper h3 {
+  color: white;
+  }
+.wrapper p {
+  font-style: italic;
+  }
+
 .wrapper img {
   height: 100%;
   width: 100%;
