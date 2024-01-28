@@ -158,18 +158,18 @@ section {
   transform: translate(-50%);
 }
 
-icons i {
+.icons i {
   display: block; 
   margin: 26px 0; 
   font-size: 24px;
   color: white;
   transition: all 0.05s ease;
-  }
+}
 
-icons i:hover { 
-  color: #4095591
-  transform: translateY (-5px);
-                 }
+.icons i:hover { 
+  color: #4d9559;
+  transform: translateY(-5px);
+}
 
 .scroll-down {
   position: fixed;
