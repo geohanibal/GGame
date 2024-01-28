@@ -342,7 +342,7 @@ section {
 .wrapper p {
   font-style: italic;
   }
-.wrapper ul {
+.wrapper ul li {
   list-style-type: disc;
   }
 
