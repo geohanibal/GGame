@@ -144,8 +144,49 @@ section {
   margin-right: 5px;
 }
 
-.hero h6,p1,p,ul{
+/* hetotext -impresium -*/
+.hero-text-impresium {
+  margin-top: 22%;
+}
+.hero-text-impresium h6 {
+  font-size: 18px;
+}
+.hero-text-impresium h2 {
+  font-size: 25px;
+  color: #0b3d92;
+}
+.hero-text-impresium h5 {
+  font-size: 14px;
+  font-weight: 400;
   color: white;
+  margin-bottom: 40px;
+}
+.hero-text-impresium h1 {
+  font-family: "Permanen Marker", cursive;
+  font-size: 90px;
+  line-height: 1;
+  color: red;
+  margin: 0 0 45px;
+}
+
+.hero-text-impresium h4 {
+  font-size: 18px;
+  font-weight: 600;
+  color: goldenrod;
+  margin-bottom: 10px;
+}
+.hero-text-impresium p {
+  color: white;
+  font-size: 15px;
+  line-height: 1.9;
+  margin-bottom: 40px;
+}
+.hero-text-impresium a{
+  color: rgba(152, 163, 4, 0.842);
+}
+
+.hero h6,p1,p,ul{
+  color: rgb(255, 255, 255);
 }
 .icons {
   margin-left: 50px;
