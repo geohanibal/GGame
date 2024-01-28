@@ -86,6 +86,9 @@ section {
 .hero-text h6 {
   font-size: 18px;
 }
+.hero-text h7 {
+  color: white;
+  }
 .hero-text h2 {
   font-size: 25px;
   color: #0b3d92;
@@ -197,16 +200,18 @@ section {
 }
 
 .icons i {
-  display: block;
-  margin: 26px 0;
+  display: block; 
+  margin: 26px 0; 
   font-size: 24px;
   color: white;
   transition: all 0.05s ease;
 }
-.icons i:hover {
+
+.icons i:hover { 
   color: #4d9559;
   transform: translateY(-5px);
 }
+
 .scroll-down {
   position: fixed;
   bottom: 50px;
@@ -374,6 +379,16 @@ section {
   height: 220px;
   width: 220px;
 }
+.wrapper h3 {
+  color: goldenrod;
+  }
+.wrapper p {
+  font-style: italic;
+  }
+.wrapper ul li {
+  list-style-type: disc;
+  }
+
 .wrapper img {
   height: 100%;
   width: 100%;
