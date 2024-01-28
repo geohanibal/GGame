@@ -343,7 +343,7 @@ section {
   font-style: italic;
   }
 .wrapper ul {
-  list-style: circle;
+  list-style-type: disc;
   }
 
 .wrapper img {
