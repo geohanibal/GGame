@@ -164,6 +164,11 @@ section {
   color: white;
   margin-bottom: 40px;
 }
+
+.hero-text-impresium h7 {
+color: white;
+  }
+
 .hero-text-impresium h1 {
   font-family: "Permanen Marker", cursive;
   font-size: 90px;
